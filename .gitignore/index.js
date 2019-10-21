@@ -34,4 +34,4 @@ bot.on('message', async message =>{
     }
 })
 
-bot.login("NjIzMTk3MTk3NjQ2ODIzNDM3.XX-8OQ.tU-_vUUkFPHFhvm4iv6n0ky3vig")
+bot.login(process.env.TOKEN)
